@@ -23,7 +23,7 @@ The card is visually split into **three elegant sides**:
 ## 🖼️ Preview
 
 _✨ Visti here to see the preview of the BirthDay Greeting Card._
-[Birthday Card Preview](https://suriya273.github.io/Birthday-gift-/)  
+[Birthday Card Preview](https://suriya273.github.io/Birthday-gift-2/)  
 
 ---
 
