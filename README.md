@@ -12,10 +12,11 @@ The card is visually split into **three elegant sides**:
    A cheerful and vibrant birthday-themed image that sets the mood of celebration.
 
 2. **🧑 Middle Side - Image of the Birthday Person**  
-   A dedicated space to insert a personalized image of the birthday person.  
+   A dedicated space to insert a personalized image of the birthday person.
+   
    _🔁 Replace the placeholder image (`1019327.png`) with their actual photo for a personal touch._
 
-3. **💌 Back Side - Heartfelt Wishes**  
+4. **💌 Back Side - Heartfelt Wishes**  
    A sweet, thoughtful birthday message to express love, appreciation, and best wishes.
 
 ---
